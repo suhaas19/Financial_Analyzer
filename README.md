@@ -1,63 +1,49 @@
 # Financial_Analyzer
-Used Python, GenAi To Analyse my expenditures 
-🚀 AI-Powered Financial Analyzer: Unlocking Insights into Savings & Expenditures
+🚀 AI-Powered Financial Analyzer
+Overview
+This repository contains a Financial Analysis Pipeline powered by LLM fine-tuning, Python, and Apache Airflow to analyze and visualize two years of AmEx transactions. The system automates expense categorization, income tracking, and savings analysis, helping users gain deeper insights into their spending habits.
 
-Managing personal finances effectively requires clear insights into income, spending patterns, and savings trends. To tackle this, I developed a Financial Analyzer that utilizes LLM-powered analysis, Python, and visualization tools to process and interpret transaction data.
+📌 Key Features
+✅ Fine-Tuned Llama 3 for Expense Categorization
+✅ Automated Data Cleaning & Transformation
+✅ AI-Powered Expense & Savings Analysis
+✅ Interactive Financial Dashboard with Python
+✅ Workflow Orchestration using Apache Airflow
 
+📂 Repository Files
+categorize_expenses.ipynb – Jupyter Notebook for cleaning & categorizing financial transactions using Llama 3.
+dashboard.ipynb – Notebook to build an interactive financial dashboard using Panel, Matplotlib & NetworkX.
+expense_analyzer/ – Core Python module containing scripts for LLM-powered transaction analysis.
+transactions_2022_2023.csv – Raw AmEx transaction dataset from the past two years.
+transactions_2022_2023_categorized.csv – Processed & categorized transaction data generated using the LLM model.
+README.md – Documentation explaining project workflow, model fine-tuning, and dashboard functionalities.
+Picture.jpg – Sample visualization from the financial dashboard.
+🔍 Project Workflow
+1️⃣ Data Collection & Preprocessing
 
+Extracted and cleaned two years of transaction data.
+Structured financial data for AI-powered categorization.
+2️⃣ LLM Fine-Tuning & Transaction Categorization
 
-How It Works:
+Fine-tuned Llama 3 to classify transactions into Income, Expenses, Investments, etc.
+Optimized model accuracy using custom training datasets & prompt engineering.
+3️⃣ Automated Data Pipeline with Apache Airflow
 
+Ingested transaction data, processed it through AI models, and stored results.
+Ensured seamless workflow automation for future financial tracking.
+4️⃣ AI-Powered Financial Dashboard
 
+Visualized expenses, income, and savings trends using Matplotlib & NetworkX.
+Built interactive charts for deeper financial insights.
+🚀 Future Enhancements
+🔹 Predictive Analytics for Financial Forecasting
+🔹 AI-Driven Budgeting Recommendations
+🔹 Real-Time Expense Tracking with API Integration
 
-🔹 Data Collection & Processing: Extracted and cleaned two years of AmEx transaction data.
+📢 Contribute & Connect
+This project is a great step toward AI-driven financial intelligence! If you have any ideas or suggestions, feel free to open an issue or contribute.
+Let’s connect if you’re working on LLMs, AI for Finance, or Data Science projects! 🚀
 
-🔹 LLM-Powered Categorization: Fine-tuned Llama 3 to automatically classify transactions (Income, Investments, Utilities, Travel, etc.).
-
-🔹 Dashboard Visualization: Built an interactive dashboard in Python (Matplotlib, NetworkX) to display trends in monthly income, expenses, and savings rate.
-
-🔹 Expense Breakdown & Savings Insights: Identifies where money is spent, highlights saving patterns, and suggests areas for optimization.
-
-
-
-How I Used LLMs for Categorizing Financial Data:
-
-
-
-🔹 Fine-Tuning Llama 3: Adjusted model weights and temperature to specialize in transaction classification.
-
-🔹 Custom Training: Trained the model on labeled financial data (ex: categorizing transactions into Income, Investments, Taxes, Utilities, Travel, etc.).
-
-🔹 Prompt Engineering & Optimization: Designed structured prompts to guide the LLM in making accurate expense classifications.
-
-🔹 Reducing Hallucinations: Used temperature control and model filtering to improve the accuracy of financial insights.
-
-🔹 Iterative Model Improvement: Analyzed misclassified transactions and fine-tuned the model further using real financial transaction logs.
-
-
-
-What I Learned About LLMs & AI Agents:
-
-✅ LLMs are powerful for context-based financial data interpretation.
-
-✅ Fine-tuning significantly improves accuracy over generic models.
-
-✅ Prompt engineering plays a crucial role in structuring financial insights.
-
-✅ AI can automate financial intelligence, reducing manual categorization efforts.
-
-
-
-Why This Matters?
-
-📊 Track Expenses Efficiently – Understand where your money goes each month.
-
-💰 Optimize Savings – Identify spending habits and adjust for financial goals.
-
-🔍 Data-Driven Decisions – Move beyond spreadsheets and let AI analyze financial patterns dynamically.
-
-This project has been a great learning experience in AI-driven financial analytics, and I look forward to expanding it with predictive insights & investment tracking!
-
-Would love to hear from others exploring LLMs in financial intelligence. Let’s connect! 🔥
-
-#FinancialAnalytics #AI #MachineLearning #LLMs #Python #DataVisualization #Savings #PersonalFinance #ApacheAirflow #DataScience
+🔗 Connect With Me
+📌 LinkedIn: [Your LinkedIn Profile]
+📌 GitHub: [Your GitHub Profile]
