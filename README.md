@@ -11,8 +11,11 @@ This repository contains a Financial Analysis Pipeline powered by LLM fine-tunin
 ✅ Workflow Orchestration using Apache Airflow
 
 📂 Repository Files
+
 categorize_expenses.ipynb – Jupyter Notebook for cleaning & categorizing financial transactions using Llama 3.
+
 dashboard.ipynb – Notebook to build an interactive financial dashboard using Panel, Matplotlib & NetworkX.
+
 expense_analyzer/ – Core Python module containing scripts for LLM-powered transaction analysis.
 transactions_2022_2023.csv – Raw AmEx transaction dataset from the past two years.
 transactions_2022_2023_categorized.csv – Processed & categorized transaction data generated using the LLM model.
