@@ -1,0 +1,386 @@
+Date,Expense/Income,Name / Description,Amount (EUR),Transaction vs category,Transaction,Category
+1/1/2022,Expense,Online Shopping,241.86,3. Online Shopping - Shopping,Online Shopping,Shopping
+1/3/2022,Income,Bonus Payment,2979.06,4. Bonus Payment - Salary,Bonus Payment,Salary
+1/4/2022,Expense,Dining Out,699.41,5. Dining Out - Food,Dining Out,Food and Drinks
+1/7/2022,Expense,Insurance Payment,898.56,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+1/10/2022,Expense,Gym Membership,568.77,7. Gym Membership - Fitness,Gym Membership,Fitness
+1/12/2022,Income,Stock Dividends,2998.01,8. Stock Dividends - Investments,Stock Dividends,Investments
+1/13/2022,Expense,Gym Membership,768.6,7. Gym Membership - Fitness,Gym Membership,Fitness
+1/14/2022,Expense,Entertainment,998.06,18. Entertainment - Leisure,Entertainment,Leisure
+1/14/2022,Income,Tax Refund,4594.5,9. Tax Refund - Taxes,Tax Refund,Taxes
+1/14/2022,Income,Tax Refund,4594.5,19. Tax Refund - Taxes,Tax Refund,Taxes
+1/16/2022,Expense,Gym Membership,737.13,7. Gym Membership - Fitness,Gym Membership,Fitness
+1/17/2022,Expense,Coffee Shop,168.65,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+1/17/2022,Expense,Coffee Shop,168.65,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+1/17/2022,Expense,Electricity Bill,993.47,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+1/17/2022,Expense,Electricity Bill,993.47,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+1/22/2022,Income,Side Business Earnings,4058.11,12. Side Business Earnings - Income,Side Business Earnings,Income
+1/22/2022,Income,Side Business Earnings,4058.11,22. Side Business Earnings - Income,Side Business Earnings,Income
+2/1/2022,Expense,Dining Out,378.26,5. Dining Out - Food,Dining Out,Food and Drinks
+2/3/2022,Expense,Gym Membership,771.65,7. Gym Membership - Fitness,Gym Membership,Fitness
+2/4/2022,Income,Gift Received,2718.93,13. Gift Received - Gifts,Gift Received,Gifts
+2/4/2022,Income,Gift Received,2718.93,23. Gift Received - Gifts,Gift Received,Gifts
+2/11/2022,Expense,Water Bill,935.69,14. Water Bill - Utilities,Water Bill,Utilities
+2/11/2022,Expense,Water Bill,935.69,24. Water Bill - Utilities,Water Bill,Utilities
+2/12/2022,Income,Gift Received,1395.58,13. Gift Received - Gifts,Gift Received,Gifts
+2/12/2022,Income,Gift Received,1395.58,23. Gift Received - Gifts,Gift Received,Gifts
+2/13/2022,Expense,Insurance Payment,252.73,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+2/15/2022,Expense,Rent Payment,420.33,15. Rent Payment - Housing,Rent Payment,Housing
+2/15/2022,Expense,Rent Payment,420.33,25. Rent Payment - Housing,Rent Payment,Housing
+2/19/2022,Expense,Travel Expenses,479.21,16. Travel Expenses - Travel,Travel Expenses,Travel
+2/19/2022,Expense,Travel Expenses,479.21,26. Travel Expenses - Travel,Travel Expenses,Travel
+2/21/2022,Income,Gift Received,4639.78,13. Gift Received - Gifts,Gift Received,Gifts
+2/21/2022,Income,Gift Received,4639.78,23. Gift Received - Gifts,Gift Received,Gifts
+2/23/2022,Income,Stock Dividends,4025.96,8. Stock Dividends - Investments,Stock Dividends,Investments
+2/24/2022,Expense,Online Shopping,222.74,3. Online Shopping - Shopping,Online Shopping,Shopping
+3/1/2022,Income,Investment Returns,3565.27,17. Investment Returns - Investments,Investment Returns,Investments
+3/1/2022,Income,Investment Returns,3565.27,27. Investment Returns - Investments,Investment Returns,Investments
+3/1/2022,Expense,Online Shopping,393.92,3. Online Shopping - Shopping,Online Shopping,Shopping
+3/8/2022,Expense,Grocery Shopping,286.56,,,
+3/11/2022,Income,Selling Paintings,3067.26,36. Selling Paintings - Income,Selling Paintings,Income
+3/16/2022,Expense,Electricity Bill,929.01,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+3/16/2022,Expense,Electricity Bill,929.01,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+3/16/2022,Expense,Clothing Purchase,94.3,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+3/17/2022,Income,Bonus Payment,2948.24,4. Bonus Payment - Salary,Bonus Payment,Salary
+3/17/2022,Income,Real Estate Rental Income,509.43,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+3/25/2022,Expense,Phone Bill,918.02,39. Phone Bill - Utilities,Phone Bill,Utilities
+3/25/2022,Expense,Dining Out,450.96,5. Dining Out - Food,Dining Out,Food and Drinks
+3/28/2022,Income,Selling Paintings,3677.83,36. Selling Paintings - Income,Selling Paintings,Income
+4/1/2022,Expense,Electricity Bill,802.63,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/1/2022,Expense,Electricity Bill,802.63,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/5/2022,Expense,Public Transport Ticket,260.47,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+4/15/2022,Expense,Electricity Bill,104.5,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/15/2022,Expense,Electricity Bill,104.5,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/18/2022,Expense,Medical Expenses,616.28,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+4/19/2022,Income,Scholarship,3758.81,28. Scholarship - Education,Scholarship,Education
+4/21/2022,Expense,Dining Out,787.59,5. Dining Out - Food,Dining Out,Food and Drinks
+4/24/2022,Expense,Phone Bill,639.98,39. Phone Bill - Utilities,Phone Bill,Utilities
+4/25/2022,Expense,Entertainment,73.43,18. Entertainment - Leisure,Entertainment,Leisure
+4/30/2022,Expense,Gym Membership,401.77,7. Gym Membership - Fitness,Gym Membership,Fitness
+5/1/2022,Expense,Dining Out,550.6,5. Dining Out - Food,Dining Out,Food and Drinks
+5/2/2022,Expense,Streaming Service Subscription,224.92,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+5/3/2022,Expense,Internet Subscription,209.43,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+5/7/2022,Income,Real Estate Rental Income,1250.41,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+5/8/2022,Expense,Electricity Bill,516.05,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+5/8/2022,Expense,Electricity Bill,516.05,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+5/12/2022,Expense,Online Shopping,281.11,3. Online Shopping - Shopping,Online Shopping,Shopping
+5/14/2022,Expense,Internet Subscription,240.27,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+5/14/2022,Income,Real Estate Rental Income,1786.68,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+5/15/2022,Income,Stock Dividends,4267.7,8. Stock Dividends - Investments,Stock Dividends,Investments
+5/24/2022,Expense,Entertainment,381.1,18. Entertainment - Leisure,Entertainment,Leisure
+5/26/2022,Expense,Medical Expenses,152.72,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+5/28/2022,Expense,Online Shopping,772.09,3. Online Shopping - Shopping,Online Shopping,Shopping
+6/5/2022,Expense,Car Maintenance,869.46,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+6/6/2022,Income,Side Business Earnings,3326.52,12. Side Business Earnings - Income,Side Business Earnings,Income
+6/6/2022,Income,Side Business Earnings,3326.52,22. Side Business Earnings - Income,Side Business Earnings,Income
+6/14/2022,Expense,Gym Membership,867.14,7. Gym Membership - Fitness,Gym Membership,Fitness
+6/14/2022,Expense,Grocery Shopping,808.0,,,
+6/14/2022,Expense,Streaming Service Subscription,463.53,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+6/14/2022,Income,Side Business Earnings,4265.52,12. Side Business Earnings - Income,Side Business Earnings,Income
+6/14/2022,Income,Side Business Earnings,4265.52,22. Side Business Earnings - Income,Side Business Earnings,Income
+6/16/2022,Income,Investment Returns,944.24,17. Investment Returns - Investments,Investment Returns,Investments
+6/16/2022,Income,Investment Returns,944.24,27. Investment Returns - Investments,Investment Returns,Investments
+6/17/2022,Expense,Electricity Bill,381.52,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+6/17/2022,Expense,Electricity Bill,381.52,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+6/18/2022,Expense,Car Maintenance,188.98,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+6/26/2022,Expense,Clothing Purchase,32.32,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+6/30/2022,Income,Tax Refund,1397.35,9. Tax Refund - Taxes,Tax Refund,Taxes
+6/30/2022,Income,Tax Refund,1397.35,19. Tax Refund - Taxes,Tax Refund,Taxes
+7/6/2022,Income,Real Estate Rental Income,595.44,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+7/6/2022,Income,Gift Received,2568.91,13. Gift Received - Gifts,Gift Received,Gifts
+7/6/2022,Income,Gift Received,2568.91,23. Gift Received - Gifts,Gift Received,Gifts
+7/10/2022,Expense,Car Maintenance,699.11,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+7/21/2022,Expense,Coffee Shop,680.95,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+7/21/2022,Expense,Coffee Shop,680.95,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+7/21/2022,Income,Bonus Payment,691.4,4. Bonus Payment - Salary,Bonus Payment,Salary
+7/25/2022,Income,Tax Refund,4634.09,9. Tax Refund - Taxes,Tax Refund,Taxes
+7/25/2022,Income,Tax Refund,4634.09,19. Tax Refund - Taxes,Tax Refund,Taxes
+7/27/2022,Expense,Public Transport Ticket,775.71,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+7/29/2022,Income,Gift Received,4520.41,13. Gift Received - Gifts,Gift Received,Gifts
+7/29/2022,Income,Gift Received,4520.41,23. Gift Received - Gifts,Gift Received,Gifts
+8/2/2022,Income,Tax Refund,4360.7,9. Tax Refund - Taxes,Tax Refund,Taxes
+8/2/2022,Income,Tax Refund,4360.7,19. Tax Refund - Taxes,Tax Refund,Taxes
+8/4/2022,Income,Side Business Earnings,645.84,12. Side Business Earnings - Income,Side Business Earnings,Income
+8/4/2022,Income,Side Business Earnings,645.84,22. Side Business Earnings - Income,Side Business Earnings,Income
+8/6/2022,Income,Gift Received,1110.1,13. Gift Received - Gifts,Gift Received,Gifts
+8/6/2022,Income,Gift Received,1110.1,23. Gift Received - Gifts,Gift Received,Gifts
+8/10/2022,Expense,Car Maintenance,413.2,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+8/11/2022,Expense,Grocery Shopping,410.26,,,
+8/11/2022,Expense,Clothing Purchase,363.09,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+8/12/2022,Income,Selling Paintings,1472.66,36. Selling Paintings - Income,Selling Paintings,Income
+8/14/2022,Expense,Water Bill,631.54,14. Water Bill - Utilities,Water Bill,Utilities
+8/14/2022,Expense,Water Bill,631.54,24. Water Bill - Utilities,Water Bill,Utilities
+8/14/2022,Expense,Coffee Shop,960.87,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+8/14/2022,Expense,Coffee Shop,960.87,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+8/15/2022,Expense,Entertainment,821.93,18. Entertainment - Leisure,Entertainment,Leisure
+8/16/2022,Expense,Gym Membership,589.91,7. Gym Membership - Fitness,Gym Membership,Fitness
+8/21/2022,Income,Freelance Work,2448.37,32. Freelance Work - Income,Freelance Work,Income
+8/22/2022,Expense,Public Transport Ticket,194.4,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+8/25/2022,Expense,Public Transport Ticket,795.47,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+8/29/2022,Expense,Online Shopping,952.55,3. Online Shopping - Shopping,Online Shopping,Shopping
+9/5/2022,Expense,Coffee Shop,997.37,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+9/5/2022,Expense,Coffee Shop,997.37,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+9/6/2022,Expense,Internet Subscription,187.77,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+9/6/2022,Expense,Phone Bill,527.44,39. Phone Bill - Utilities,Phone Bill,Utilities
+9/8/2022,Expense,Electricity Bill,403.4,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+9/8/2022,Expense,Electricity Bill,403.4,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+9/15/2022,Income,Bonus Payment,3145.42,4. Bonus Payment - Salary,Bonus Payment,Salary
+9/17/2022,Income,Stock Dividends,3774.56,8. Stock Dividends - Investments,Stock Dividends,Investments
+9/19/2022,Income,Real Estate Rental Income,3596.06,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+9/22/2022,Expense,Coffee Shop,350.14,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+9/22/2022,Expense,Coffee Shop,350.14,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+9/24/2022,Expense,Online Shopping,663.73,3. Online Shopping - Shopping,Online Shopping,Shopping
+9/30/2022,Expense,Water Bill,642.85,14. Water Bill - Utilities,Water Bill,Utilities
+9/30/2022,Expense,Water Bill,642.85,24. Water Bill - Utilities,Water Bill,Utilities
+10/1/2022,Expense,Car Maintenance,765.87,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+10/5/2022,Income,Salary,2994.08,33. Salary - Income,Salary,Income
+10/7/2022,Expense,Grocery Shopping,611.73,,,
+10/11/2022,Expense,Gym Membership,862.84,7. Gym Membership - Fitness,Gym Membership,Fitness
+10/16/2022,Income,Selling Paintings,4831.49,36. Selling Paintings - Income,Selling Paintings,Income
+10/24/2022,Expense,Clothing Purchase,943.33,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+10/26/2022,Expense,Entertainment,824.94,18. Entertainment - Leisure,Entertainment,Leisure
+10/26/2022,Expense,Travel Expenses,495.86,16. Travel Expenses - Travel,Travel Expenses,Travel
+10/26/2022,Expense,Travel Expenses,495.86,26. Travel Expenses - Travel,Travel Expenses,Travel
+10/27/2022,Expense,Rent Payment,680.07,15. Rent Payment - Housing,Rent Payment,Housing
+10/27/2022,Expense,Rent Payment,680.07,25. Rent Payment - Housing,Rent Payment,Housing
+10/28/2022,Expense,Car Maintenance,632.07,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+10/28/2022,Expense,Entertainment,671.31,18. Entertainment - Leisure,Entertainment,Leisure
+11/1/2022,Income,Scholarship,1971.45,28. Scholarship - Education,Scholarship,Education
+11/7/2022,Expense,Internet Subscription,242.54,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+11/9/2022,Income,Side Business Earnings,1036.51,12. Side Business Earnings - Income,Side Business Earnings,Income
+11/9/2022,Income,Side Business Earnings,1036.51,22. Side Business Earnings - Income,Side Business Earnings,Income
+11/10/2022,Income,Bonus Payment,2081.06,4. Bonus Payment - Salary,Bonus Payment,Salary
+11/22/2022,Expense,Rent Payment,163.45,15. Rent Payment - Housing,Rent Payment,Housing
+11/22/2022,Expense,Rent Payment,163.45,25. Rent Payment - Housing,Rent Payment,Housing
+11/30/2022,Income,Scholarship,1729.02,28. Scholarship - Education,Scholarship,Education
+12/1/2022,Expense,Public Transport Ticket,683.97,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+12/2/2022,Income,Stock Dividends,2241.31,8. Stock Dividends - Investments,Stock Dividends,Investments
+12/6/2022,Expense,Clothing Purchase,315.2,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+12/6/2022,Income,Scholarship,3721.46,28. Scholarship - Education,Scholarship,Education
+12/8/2022,Expense,Clothing Purchase,220.1,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+12/9/2022,Expense,Medical Expenses,486.92,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+12/11/2022,Expense,Online Shopping,684.07,3. Online Shopping - Shopping,Online Shopping,Shopping
+12/13/2022,Income,Tax Refund,599.88,9. Tax Refund - Taxes,Tax Refund,Taxes
+12/13/2022,Income,Tax Refund,599.88,19. Tax Refund - Taxes,Tax Refund,Taxes
+12/20/2022,Expense,Phone Bill,308.32,39. Phone Bill - Utilities,Phone Bill,Utilities
+12/20/2022,Expense,Travel Expenses,496.44,16. Travel Expenses - Travel,Travel Expenses,Travel
+12/20/2022,Expense,Travel Expenses,496.44,26. Travel Expenses - Travel,Travel Expenses,Travel
+12/21/2022,Expense,Public Transport Ticket,413.95,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+12/21/2022,Income,Scholarship,1037.62,28. Scholarship - Education,Scholarship,Education
+12/25/2022,Expense,Electricity Bill,604.58,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+12/25/2022,Expense,Electricity Bill,604.58,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+12/25/2022,Expense,Streaming Service Subscription,987.35,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+12/30/2022,Income,Investment Returns,2695.64,17. Investment Returns - Investments,Investment Returns,Investments
+12/30/2022,Income,Investment Returns,2695.64,27. Investment Returns - Investments,Investment Returns,Investments
+12/31/2022,Expense,Coffee Shop,666.68,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+12/31/2022,Expense,Coffee Shop,666.68,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+1/1/2023,Income,Scholarship,2290.36,28. Scholarship - Education,Scholarship,Education
+1/2/2023,Income,Gift Received,3281.35,13. Gift Received - Gifts,Gift Received,Gifts
+1/2/2023,Income,Gift Received,3281.35,23. Gift Received - Gifts,Gift Received,Gifts
+1/3/2023,Expense,Car Maintenance,144.35,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+1/4/2023,Income,Salary,4208.38,33. Salary - Income,Salary,Income
+1/5/2023,Income,Real Estate Rental Income,4148.2,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+1/6/2023,Income,Bonus Payment,2788.6,4. Bonus Payment - Salary,Bonus Payment,Salary
+1/9/2023,Expense,Electricity Bill,362.86,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+1/9/2023,Expense,Electricity Bill,362.86,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+1/11/2023,Expense,Car Maintenance,15.28,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+1/11/2023,Income,Real Estate Rental Income,3964.62,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+1/12/2023,Expense,Streaming Service Subscription,600.17,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+1/12/2023,Expense,Public Transport Ticket,133.53,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+1/15/2023,Expense,Insurance Payment,334.56,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+1/17/2023,Income,Scholarship,4797.98,28. Scholarship - Education,Scholarship,Education
+1/18/2023,Income,Real Estate Rental Income,2258.26,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+1/19/2023,Expense,Streaming Service Subscription,855.48,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+1/23/2023,Expense,Rent Payment,184.5,15. Rent Payment - Housing,Rent Payment,Housing
+1/23/2023,Expense,Rent Payment,184.5,25. Rent Payment - Housing,Rent Payment,Housing
+1/23/2023,Expense,Car Maintenance,733.84,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+1/24/2023,Expense,Electricity Bill,859.02,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+1/24/2023,Expense,Electricity Bill,859.02,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+1/26/2023,Income,Selling Paintings,1121.5,36. Selling Paintings - Income,Selling Paintings,Income
+2/3/2023,Income,Bonus Payment,4028.4,4. Bonus Payment - Salary,Bonus Payment,Salary
+2/4/2023,Expense,Clothing Purchase,969.85,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+2/5/2023,Expense,Car Maintenance,26.6,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+2/8/2023,Expense,Travel Expenses,168.4,16. Travel Expenses - Travel,Travel Expenses,Travel
+2/8/2023,Expense,Travel Expenses,168.4,26. Travel Expenses - Travel,Travel Expenses,Travel
+2/9/2023,Income,Real Estate Rental Income,4838.28,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+2/13/2023,Income,Selling Paintings,3936.22,36. Selling Paintings - Income,Selling Paintings,Income
+2/17/2023,Income,Bonus Payment,1856.68,4. Bonus Payment - Salary,Bonus Payment,Salary
+2/19/2023,Expense,Clothing Purchase,682.86,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+2/20/2023,Income,Investment Returns,992.92,17. Investment Returns - Investments,Investment Returns,Investments
+2/20/2023,Income,Investment Returns,992.92,27. Investment Returns - Investments,Investment Returns,Investments
+2/21/2023,Expense,Water Bill,171.74,14. Water Bill - Utilities,Water Bill,Utilities
+2/21/2023,Expense,Water Bill,171.74,24. Water Bill - Utilities,Water Bill,Utilities
+2/23/2023,Income,Scholarship,4842.98,28. Scholarship - Education,Scholarship,Education
+2/28/2023,Expense,Car Maintenance,802.43,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+3/1/2023,Income,Real Estate Rental Income,2794.43,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+3/5/2023,Income,Bonus Payment,1845.51,4. Bonus Payment - Salary,Bonus Payment,Salary
+3/5/2023,Income,Selling Paintings,2283.24,36. Selling Paintings - Income,Selling Paintings,Income
+3/5/2023,Income,Scholarship,3741.21,28. Scholarship - Education,Scholarship,Education
+3/10/2023,Expense,Public Transport Ticket,429.58,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+3/11/2023,Expense,Internet Subscription,870.14,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+3/14/2023,Income,Freelance Work,1950.36,32. Freelance Work - Income,Freelance Work,Income
+3/15/2023,Expense,Phone Bill,350.84,39. Phone Bill - Utilities,Phone Bill,Utilities
+3/19/2023,Expense,Travel Expenses,349.97,16. Travel Expenses - Travel,Travel Expenses,Travel
+3/19/2023,Expense,Travel Expenses,349.97,26. Travel Expenses - Travel,Travel Expenses,Travel
+3/22/2023,Expense,Car Maintenance,185.57,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+3/23/2023,Expense,Entertainment,730.95,18. Entertainment - Leisure,Entertainment,Leisure
+3/23/2023,Income,Bonus Payment,3987.61,4. Bonus Payment - Salary,Bonus Payment,Salary
+3/24/2023,Income,Real Estate Rental Income,4855.18,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+3/24/2023,Expense,Insurance Payment,369.26,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+3/25/2023,Expense,Internet Subscription,122.24,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+3/26/2023,Income,Side Business Earnings,873.98,12. Side Business Earnings - Income,Side Business Earnings,Income
+3/26/2023,Income,Side Business Earnings,873.98,22. Side Business Earnings - Income,Side Business Earnings,Income
+3/26/2023,Income,Salary,4669.89,33. Salary - Income,Salary,Income
+3/28/2023,Income,Salary,3658.11,33. Salary - Income,Salary,Income
+3/29/2023,Expense,Electricity Bill,818.52,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+3/29/2023,Expense,Electricity Bill,818.52,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/3/2023,Expense,Online Shopping,314.27,3. Online Shopping - Shopping,Online Shopping,Shopping
+4/7/2023,Expense,Dining Out,522.34,5. Dining Out - Food,Dining Out,Food and Drinks
+4/7/2023,Expense,Electricity Bill,614.14,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/7/2023,Expense,Electricity Bill,614.14,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+4/10/2023,Expense,Entertainment,606.59,18. Entertainment - Leisure,Entertainment,Leisure
+4/14/2023,Expense,Car Maintenance,392.55,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+4/15/2023,Expense,Clothing Purchase,100.22,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+4/22/2023,Income,Stock Dividends,1990.39,8. Stock Dividends - Investments,Stock Dividends,Investments
+4/23/2023,Income,Scholarship,4443.88,28. Scholarship - Education,Scholarship,Education
+4/28/2023,Expense,Medical Expenses,139.09,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+4/28/2023,Income,Stock Dividends,4370.5,8. Stock Dividends - Investments,Stock Dividends,Investments
+4/29/2023,Expense,Streaming Service Subscription,644.0,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+5/1/2023,Expense,Clothing Purchase,320.88,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+5/4/2023,Expense,Clothing Purchase,408.07,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+5/4/2023,Expense,Internet Subscription,707.4,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+5/8/2023,Expense,Public Transport Ticket,132.05,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+5/10/2023,Expense,Phone Bill,940.54,39. Phone Bill - Utilities,Phone Bill,Utilities
+5/13/2023,Income,Stock Dividends,1473.18,8. Stock Dividends - Investments,Stock Dividends,Investments
+5/14/2023,Expense,Rent Payment,253.22,15. Rent Payment - Housing,Rent Payment,Housing
+5/14/2023,Expense,Rent Payment,253.22,25. Rent Payment - Housing,Rent Payment,Housing
+5/14/2023,Expense,Electricity Bill,556.06,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+5/14/2023,Expense,Electricity Bill,556.06,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+5/16/2023,Expense,Entertainment,777.54,18. Entertainment - Leisure,Entertainment,Leisure
+5/21/2023,Expense,Gym Membership,973.24,7. Gym Membership - Fitness,Gym Membership,Fitness
+5/21/2023,Expense,Public Transport Ticket,269.47,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+5/23/2023,Expense,Internet Subscription,84.82,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+5/25/2023,Expense,Insurance Payment,349.01,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+5/27/2023,Expense,Rent Payment,974.41,15. Rent Payment - Housing,Rent Payment,Housing
+5/27/2023,Expense,Rent Payment,974.41,25. Rent Payment - Housing,Rent Payment,Housing
+5/28/2023,Expense,Electricity Bill,478.22,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+5/28/2023,Expense,Electricity Bill,478.22,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+5/29/2023,Expense,Insurance Payment,98.73,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+5/30/2023,Income,Scholarship,1754.4,28. Scholarship - Education,Scholarship,Education
+6/2/2023,Expense,Internet Subscription,580.37,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+6/3/2023,Expense,Travel Expenses,161.16,16. Travel Expenses - Travel,Travel Expenses,Travel
+6/3/2023,Expense,Travel Expenses,161.16,26. Travel Expenses - Travel,Travel Expenses,Travel
+6/6/2023,Expense,Rent Payment,357.96,15. Rent Payment - Housing,Rent Payment,Housing
+6/6/2023,Expense,Rent Payment,357.96,25. Rent Payment - Housing,Rent Payment,Housing
+6/15/2023,Expense,Electricity Bill,602.26,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+6/15/2023,Expense,Electricity Bill,602.26,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+6/16/2023,Income,Bonus Payment,733.23,4. Bonus Payment - Salary,Bonus Payment,Salary
+6/19/2023,Income,Tax Refund,4853.9,9. Tax Refund - Taxes,Tax Refund,Taxes
+6/19/2023,Income,Tax Refund,4853.9,19. Tax Refund - Taxes,Tax Refund,Taxes
+6/23/2023,Expense,Gym Membership,954.52,7. Gym Membership - Fitness,Gym Membership,Fitness
+6/26/2023,Expense,Rent Payment,476.25,15. Rent Payment - Housing,Rent Payment,Housing
+6/26/2023,Expense,Rent Payment,476.25,25. Rent Payment - Housing,Rent Payment,Housing
+6/29/2023,Expense,Internet Subscription,292.81,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+7/5/2023,Expense,Travel Expenses,146.59,16. Travel Expenses - Travel,Travel Expenses,Travel
+7/5/2023,Expense,Travel Expenses,146.59,26. Travel Expenses - Travel,Travel Expenses,Travel
+7/5/2023,Expense,Grocery Shopping,668.61,,,
+7/7/2023,Income,Bonus Payment,2528.79,4. Bonus Payment - Salary,Bonus Payment,Salary
+7/8/2023,Expense,Medical Expenses,80.82,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+7/14/2023,Expense,Water Bill,654.98,14. Water Bill - Utilities,Water Bill,Utilities
+7/14/2023,Expense,Water Bill,654.98,24. Water Bill - Utilities,Water Bill,Utilities
+7/15/2023,Income,Tax Refund,1188.97,9. Tax Refund - Taxes,Tax Refund,Taxes
+7/15/2023,Income,Tax Refund,1188.97,19. Tax Refund - Taxes,Tax Refund,Taxes
+7/15/2023,Income,Freelance Work,4715.36,32. Freelance Work - Income,Freelance Work,Income
+7/18/2023,Expense,Entertainment,752.22,18. Entertainment - Leisure,Entertainment,Leisure
+7/22/2023,Expense,Coffee Shop,535.78,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+7/22/2023,Expense,Coffee Shop,535.78,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+7/22/2023,Expense,Electricity Bill,275.66,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+7/22/2023,Expense,Electricity Bill,275.66,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+7/23/2023,Expense,Online Shopping,705.46,3. Online Shopping - Shopping,Online Shopping,Shopping
+7/25/2023,Expense,Entertainment,18.51,18. Entertainment - Leisure,Entertainment,Leisure
+7/25/2023,Expense,Online Shopping,345.59,3. Online Shopping - Shopping,Online Shopping,Shopping
+7/26/2023,Income,Freelance Work,2027.31,32. Freelance Work - Income,Freelance Work,Income
+7/29/2023,Expense,Water Bill,434.81,14. Water Bill - Utilities,Water Bill,Utilities
+7/29/2023,Expense,Water Bill,434.81,24. Water Bill - Utilities,Water Bill,Utilities
+8/1/2023,Expense,Grocery Shopping,91.18,,,
+8/1/2023,Income,Gift Received,4603.01,13. Gift Received - Gifts,Gift Received,Gifts
+8/1/2023,Income,Gift Received,4603.01,23. Gift Received - Gifts,Gift Received,Gifts
+8/6/2023,Expense,Entertainment,934.61,18. Entertainment - Leisure,Entertainment,Leisure
+8/7/2023,Expense,Gym Membership,994.74,7. Gym Membership - Fitness,Gym Membership,Fitness
+8/10/2023,Expense,Clothing Purchase,142.75,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+8/12/2023,Expense,Phone Bill,509.6,39. Phone Bill - Utilities,Phone Bill,Utilities
+8/12/2023,Expense,Electricity Bill,340.84,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+8/12/2023,Expense,Electricity Bill,340.84,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+8/14/2023,Expense,Medical Expenses,653.78,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+8/14/2023,Income,Freelance Work,1876.33,32. Freelance Work - Income,Freelance Work,Income
+8/15/2023,Expense,Rent Payment,20.01,15. Rent Payment - Housing,Rent Payment,Housing
+8/15/2023,Expense,Rent Payment,20.01,25. Rent Payment - Housing,Rent Payment,Housing
+8/20/2023,Expense,Online Shopping,159.82,3. Online Shopping - Shopping,Online Shopping,Shopping
+8/25/2023,Expense,Internet Subscription,784.35,30. Internet Subscription - Utilities,Internet Subscription,Utilities
+8/26/2023,Expense,Gym Membership,33.86,7. Gym Membership - Fitness,Gym Membership,Fitness
+8/27/2023,Income,Gift Received,3838.83,13. Gift Received - Gifts,Gift Received,Gifts
+8/27/2023,Income,Gift Received,3838.83,23. Gift Received - Gifts,Gift Received,Gifts
+8/28/2023,Income,Scholarship,2910.14,28. Scholarship - Education,Scholarship,Education
+8/30/2023,Income,Salary,1879.24,33. Salary - Income,Salary,Income
+8/31/2023,Expense,Electricity Bill,550.65,11. Electricity Bill - Utilities,Electricity Bill,Utilities
+8/31/2023,Expense,Electricity Bill,550.65,21. Electricity Bill - Utilities,Electricity Bill,Utilities
+9/2/2023,Income,Salary,2971.11,33. Salary - Income,Salary,Income
+9/2/2023,Income,Real Estate Rental Income,2998.26,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+9/7/2023,Income,Selling Paintings,1120.82,36. Selling Paintings - Income,Selling Paintings,Income
+9/7/2023,Income,Side Business Earnings,2470.64,12. Side Business Earnings - Income,Side Business Earnings,Income
+9/7/2023,Income,Side Business Earnings,2470.64,22. Side Business Earnings - Income,Side Business Earnings,Income
+9/16/2023,Income,Stock Dividends,2753.44,8. Stock Dividends - Investments,Stock Dividends,Investments
+9/17/2023,Expense,Insurance Payment,300.96,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+9/17/2023,Income,Selling Paintings,3263.2,36. Selling Paintings - Income,Selling Paintings,Income
+9/21/2023,Expense,Grocery Shopping,444.25,,,
+9/21/2023,Expense,Medical Expenses,885.31,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+9/24/2023,Income,Tax Refund,1503.38,9. Tax Refund - Taxes,Tax Refund,Taxes
+9/24/2023,Income,Tax Refund,1503.38,19. Tax Refund - Taxes,Tax Refund,Taxes
+9/28/2023,Expense,Entertainment,536.85,18. Entertainment - Leisure,Entertainment,Leisure
+9/28/2023,Income,Selling Paintings,4434.28,36. Selling Paintings - Income,Selling Paintings,Income
+10/2/2023,Expense,Water Bill,580.56,14. Water Bill - Utilities,Water Bill,Utilities
+10/2/2023,Expense,Water Bill,580.56,24. Water Bill - Utilities,Water Bill,Utilities
+10/3/2023,Income,Gift Received,620.63,13. Gift Received - Gifts,Gift Received,Gifts
+10/3/2023,Income,Gift Received,620.63,23. Gift Received - Gifts,Gift Received,Gifts
+10/7/2023,Income,Stock Dividends,841.13,8. Stock Dividends - Investments,Stock Dividends,Investments
+10/11/2023,Expense,Gym Membership,219.96,7. Gym Membership - Fitness,Gym Membership,Fitness
+10/19/2023,Expense,Public Transport Ticket,948.23,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+10/25/2023,Income,Freelance Work,1475.36,32. Freelance Work - Income,Freelance Work,Income
+10/30/2023,Expense,Public Transport Ticket,285.99,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+11/5/2023,Expense,Car Maintenance,345.66,31. Car Maintenance - Vehicles,Car Maintenance,Vehicles
+11/6/2023,Income,Tax Refund,1945.84,9. Tax Refund - Taxes,Tax Refund,Taxes
+11/6/2023,Income,Tax Refund,1945.84,19. Tax Refund - Taxes,Tax Refund,Taxes
+11/8/2023,Income,Tax Refund,804.24,9. Tax Refund - Taxes,Tax Refund,Taxes
+11/8/2023,Income,Tax Refund,804.24,19. Tax Refund - Taxes,Tax Refund,Taxes
+11/13/2023,Expense,Coffee Shop,214.65,10. Coffee Shop - Food,Coffee Shop,Food and Drinks
+11/13/2023,Expense,Coffee Shop,214.65,20. Coffee Shop - Food,Coffee Shop,Food and Drinks
+11/18/2023,Expense,Public Transport Ticket,417.84,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+11/23/2023,Expense,Online Shopping,537.86,3. Online Shopping - Shopping,Online Shopping,Shopping
+11/23/2023,Income,Freelance Work,2542.38,32. Freelance Work - Income,Freelance Work,Income
+11/24/2023,Expense,Medical Expenses,963.57,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+11/25/2023,Income,Salary,1816.43,33. Salary - Income,Salary,Income
+11/25/2023,Expense,Dining Out,872.14,5. Dining Out - Food,Dining Out,Food and Drinks
+11/29/2023,Expense,Water Bill,308.6,14. Water Bill - Utilities,Water Bill,Utilities
+11/29/2023,Expense,Water Bill,308.6,24. Water Bill - Utilities,Water Bill,Utilities
+12/1/2023,Expense,Public Transport Ticket,989.93,34. Public Transport Ticket - Travel,Public Transport Ticket,Travel
+12/1/2023,Expense,Insurance Payment,26.02,6. Insurance Payment - Insurance,Insurance Payment,Insurance
+12/5/2023,Expense,Medical Expenses,691.81,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
+12/9/2023,Income,Real Estate Rental Income,4215.57,38. Real Estate Rental Income - Income,Real Estate Rental Income,Income
+12/13/2023,Expense,Rent Payment,533.43,15. Rent Payment - Housing,Rent Payment,Housing
+12/13/2023,Expense,Rent Payment,533.43,25. Rent Payment - Housing,Rent Payment,Housing
+12/13/2023,Expense,Entertainment,372.64,18. Entertainment - Leisure,Entertainment,Leisure
+12/14/2023,Expense,Grocery Shopping,442.44,,,
+12/14/2023,Expense,Clothing Purchase,382.99,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+12/15/2023,Expense,Travel Expenses,573.88,16. Travel Expenses - Travel,Travel Expenses,Travel
+12/15/2023,Expense,Travel Expenses,573.88,26. Travel Expenses - Travel,Travel Expenses,Travel
+12/16/2023,Expense,Phone Bill,964.87,39. Phone Bill - Utilities,Phone Bill,Utilities
+12/22/2023,Income,Tax Refund,2886.27,9. Tax Refund - Taxes,Tax Refund,Taxes
+12/22/2023,Income,Tax Refund,2886.27,19. Tax Refund - Taxes,Tax Refund,Taxes
+12/23/2023,Expense,Travel Expenses,932.33,16. Travel Expenses - Travel,Travel Expenses,Travel
+12/23/2023,Expense,Travel Expenses,932.33,26. Travel Expenses - Travel,Travel Expenses,Travel
+12/24/2023,Expense,Grocery Shopping,549.12,,,
+12/26/2023,Expense,Clothing Purchase,207.26,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+12/27/2023,Expense,Dining Out,260.54,5. Dining Out - Food,Dining Out,Food and Drinks
+12/29/2023,Expense,Streaming Service Subscription,862.08,29. Streaming Service Subscription - Leisure,Streaming Service Subscription,Leisure
+12/29/2023,Expense,Clothing Purchase,769.78,37. Clothing Purchase - Shopping,Clothing Purchase,Shopping
+12/30/2023,Expense,Medical Expenses,594.12,35. Medical Expenses - Healthcare,Medical Expenses,Health and Wellness
