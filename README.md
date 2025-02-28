@@ -1,5 +1,6 @@
 # Financial_Analyzer
 🚀 AI-Powered Financial Analyzer
+
 Overview
 This repository contains a Financial Analysis Pipeline powered by LLM fine-tuning, Python, and Apache Airflow to analyze and visualize two years of AmEx transactions. The system automates expense categorization, income tracking, and savings analysis, helping users gain deeper insights into their spending habits.
 
