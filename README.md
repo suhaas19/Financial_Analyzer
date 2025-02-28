@@ -5,10 +5,13 @@ This repository contains a Financial Analysis Pipeline powered by LLM fine-tunin
 
 📌 Key Features
 ✅ Fine-Tuned Llama 3 for Expense Categorization
+
 ✅ Automated Data Cleaning & Transformation
+
 ✅ AI-Powered Expense & Savings Analysis
+
 ✅ Interactive Financial Dashboard with Python
-✅ Workflow Orchestration using Apache Airflow
+
 
 📂 Repository Files
 
